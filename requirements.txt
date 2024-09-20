@@ -1,1 +1,3 @@
 documenteer[technote]>=1.0.0a10
+nbsphinx
+pandoc
